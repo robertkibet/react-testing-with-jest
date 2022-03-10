@@ -30,7 +30,13 @@ const Single = ({item}) => {
 };
 
 Single.propTypes = {
-  item: PropTypes.object.isRequired
+  item: PropTypes.shape({
+    title: PropTypes.string,
+    release_date: PropTypes.string,
+    description: PropTypes.string,
+    views: PropTypes.string,
+    link: PropTypes.string,
+  })
 };
 
 export default Single;
