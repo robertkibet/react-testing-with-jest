@@ -19,6 +19,13 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+##### Key items when running coverage
+1. Statement - has each statement in the program been executed?
+2. Branch - every control structure have they been executed, for example if else statement, has each true and false been executed?
+3. Function - function coverage, has each functio in the program been called?
+4. lines - has each executable line in the source file been exeuted?
+All should be 100% for a good test.
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
