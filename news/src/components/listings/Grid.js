@@ -1,3 +1,4 @@
+// @flow
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Single from './Single';
@@ -5,12 +6,12 @@ import Single from './Single';
 export default class Grid extends Component {
   renderList() {
     return this.props.items.map((item) => (
-      <Single key={item.id} item={item}/>
+      <Single key={item.id} item={item} />
     ));
   }
 
   render() {
-    return(
+    return (
       <div>
         <div className="row">
           <ul>
@@ -18,10 +19,10 @@ export default class Grid extends Component {
           </ul>
         </div>
       </div>
-    )
+    );
   }
 }
 
 Grid.propTypes = {
-  items: PropTypes.array.isRequired
+  items: PropTypes.array.isRequired,
 };

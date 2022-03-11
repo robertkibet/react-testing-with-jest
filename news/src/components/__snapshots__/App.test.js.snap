@@ -1,0 +1,636 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App snapshot test 1`] = `
+<div>
+  <div
+    className="navbar-fixed"
+  >
+    <nav
+      className="blue lighten-2"
+    >
+      <div
+        className="nav-wrapper"
+      >
+        <a
+          className="brand-logo center"
+          href="/"
+        >
+          Coures List
+        </a>
+        <ul
+          className="left hide-on-med-and-down"
+          id="nav-mobile"
+        >
+          <li>
+            <a
+              href="#"
+            >
+              React
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              React Native
+            </a>
+          </li>
+          <li>
+            <a
+              href="#"
+            >
+              Framer
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+  <div>
+    <div>
+      <div
+        className="row"
+      >
+        <ul>
+          <li
+            className="col l6 s12"
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-image"
+              >
+                <img
+                  alt="Building an App with ReactJS and MeteorJS"
+                  src="https://cdn.lynda.com/course/533228/533228-636179098122239600-16x9.jpg"
+                />
+              </div>
+              <div
+                className="card-content"
+              >
+                <span
+                  className="card-title"
+                >
+                  Building an App with ReactJS and MeteorJS
+                </span>
+                <p>
+                  Meteor and React are a powerhouse combination. Meteor gives you a fast, easy-to-use solution for data management across clients and servers, and React gives you a way to structure your app's UI from reusable components. The combination allows you to create your dream apps: dynamic, data driven, and cross-platform.
+                </p>
+                <div
+                  className="row"
+                >
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Released:
+                        12/21/2016
+                      </h5>
+                    </blockquote>
+                  </div>
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Views:
+                        21,160
+                      </h5>
+                    </blockquote>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="card-action"
+              >
+                <a
+                  href="https://www.lynda.com/React-js-tutorials/Building-App-React-js-MeteorJS/533228-2.html"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  Link to course
+                </a>
+              </div>
+            </div>
+            <br />
+          </li>
+          <li
+            className="col l6 s12"
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-image"
+              >
+                <img
+                  alt="React.js Essential Training"
+                  src="https://cdn.lynda.com/course/496905/496905-636178336143345335-16x9.jpg"
+                />
+              </div>
+              <div
+                className="card-content"
+              >
+                <span
+                  className="card-title"
+                >
+                  React.js Essential Training
+                </span>
+                <p>
+                  Among all other JavaScript libraries, React.js stands out. It relies on reusable components, not templates, for UI development, allowing developers to render views where data changes over time. React applications are more scalable and more maintainable, making developers more efficient and users more satisfied.
+                </p>
+                <div
+                  className="row"
+                >
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Released:
+                        12/24/2016
+                      </h5>
+                    </blockquote>
+                  </div>
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Views:
+                        78,286
+                      </h5>
+                    </blockquote>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="card-action"
+              >
+                <a
+                  href="https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  Link to course
+                </a>
+              </div>
+            </div>
+            <br />
+          </li>
+          <li
+            className="col l6 s12"
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-image"
+              >
+                <img
+                  alt="React.js Essential Training"
+                  src="https://cdn.lynda.com/course/496905/496905-636178336143345335-16x9.jpg"
+                />
+              </div>
+              <div
+                className="card-content"
+              >
+                <span
+                  className="card-title"
+                >
+                  React.js Essential Training
+                </span>
+                <p>
+                  Among all other JavaScript libraries, React.js stands out. It relies on reusable components, not templates, for UI development, allowing developers to render views where data changes over time. React applications are more scalable and more maintainable, making developers more efficient and users more satisfied.
+                </p>
+                <div
+                  className="row"
+                >
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Released:
+                        12/24/2016
+                      </h5>
+                    </blockquote>
+                  </div>
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Views:
+                        78,286
+                      </h5>
+                    </blockquote>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="card-action"
+              >
+                <a
+                  href="https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  Link to course
+                </a>
+              </div>
+            </div>
+            <br />
+          </li>
+          <li
+            className="col l6 s12"
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-image"
+              >
+                <img
+                  alt="Learn React.js: The Basics"
+                  src="https://cdn.lynda.com/course/519668/519668-636102350243535480-16x9.jpg"
+                />
+              </div>
+              <div
+                className="card-content"
+              >
+                <span
+                  className="card-title"
+                >
+                  Learn React.js: The Basics
+                </span>
+                <p>
+                  A new JavaScript library has arrived: React.js. React.js is designed to make the process of building modular, reusable user interface components simple and intuitive. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes
+                </p>
+                <div
+                  className="row"
+                >
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Released:
+                        09/27/2016
+                      </h5>
+                    </blockquote>
+                  </div>
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Views:
+                        156,810
+                      </h5>
+                    </blockquote>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="card-action"
+              >
+                <a
+                  href="https://www.lynda.com/React-js-tutorials/Learn-React-js-Basics/519668-2.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  Link to course
+                </a>
+              </div>
+            </div>
+            <br />
+          </li>
+          <li
+            className="col l6 s12"
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-image"
+              >
+                <img
+                  alt="Learn React.js: The Basics"
+                  src="https://cdn.lynda.com/course/519668/519668-636102350243535480-16x9.jpg"
+                />
+              </div>
+              <div
+                className="card-content"
+              >
+                <span
+                  className="card-title"
+                >
+                  Learn React.js: The Basics
+                </span>
+                <p>
+                  A new JavaScript library has arrived: React.js. React.js is designed to make the process of building modular, reusable user interface components simple and intuitive. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes
+                </p>
+                <div
+                  className="row"
+                >
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Released:
+                        09/27/2016
+                      </h5>
+                    </blockquote>
+                  </div>
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Views:
+                        156,810
+                      </h5>
+                    </blockquote>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="card-action"
+              >
+                <a
+                  href="https://www.lynda.com/React-js-tutorials/Learn-React-js-Basics/519668-2.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  Link to course
+                </a>
+              </div>
+            </div>
+            <br />
+          </li>
+          <li
+            className="col l6 s12"
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-image"
+              >
+                <img
+                  alt="React Native: Building Mobile Apps"
+                  src="https://cdn.lynda.com/course/547379/547379-636205141682828443-16x9.jpg"
+                />
+              </div>
+              <div
+                className="card-content"
+              >
+                <span
+                  className="card-title"
+                >
+                  React Native: Building Mobile Apps
+                </span>
+                <p>
+                  React Native is almost ready for primetime. In fact, companies like Facebook are already using it to create native mobile apps—with native performance—for a variety of platforms. You too can harness the power of React Native to build your own native projects, using JavaScript and the familiar React.js framework.
+                </p>
+                <div
+                  className="row"
+                >
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Released:
+                        01/24/2017
+                      </h5>
+                    </blockquote>
+                  </div>
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Views:
+                        17,907
+                      </h5>
+                    </blockquote>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="card-action"
+              >
+                <a
+                  href="https://www.lynda.com/React-Native-tutorials/React-Native-Building-Mobile-Apps/547379-2.html?srchtrk=index%3a2%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  Link to course
+                </a>
+              </div>
+            </div>
+            <br />
+          </li>
+          <li
+            className="col l6 s12"
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-image"
+              >
+                <img
+                  alt="Learning Redux"
+                  src="https://cdn.lynda.com/course/540345/540345-636178326778026710-16x9.jpg"
+                />
+              </div>
+              <div
+                className="card-content"
+              >
+                <span
+                  className="card-title"
+                >
+                  Learning Redux
+                </span>
+                <p>
+                  Redux is a JavaScript library for managing client data in apps. You can use Redux together with React or with any other view library. Inspired by Flux, Redux attempts to make state mutations predictable by imposing certain restrictions on how and when updates can happen. 
+                </p>
+                <div
+                  className="row"
+                >
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Released:
+                        12/23/2016
+                      </h5>
+                    </blockquote>
+                  </div>
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Views:
+                        21,833
+                      </h5>
+                    </blockquote>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="card-action"
+              >
+                <a
+                  href="https://www.lynda.com/React-js-tutorials/Learning-Redux/540345-2.html?srchtrk=index%3a9%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  Link to course
+                </a>
+              </div>
+            </div>
+            <br />
+          </li>
+          <li
+            className="col l6 s12"
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-image"
+              >
+                <img
+                  alt="Learning Redux"
+                  src="https://cdn.lynda.com/course/540345/540345-636178326778026710-16x9.jpg"
+                />
+              </div>
+              <div
+                className="card-content"
+              >
+                <span
+                  className="card-title"
+                >
+                  Learning Redux
+                </span>
+                <p>
+                  Redux is a JavaScript library for managing client data in apps. You can use Redux together with React or with any other view library. Inspired by Flux, Redux attempts to make state mutations predictable by imposing certain restrictions on how and when updates can happen. 
+                </p>
+                <div
+                  className="row"
+                >
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Released:
+                        12/23/2016
+                      </h5>
+                    </blockquote>
+                  </div>
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Views:
+                        21,833
+                      </h5>
+                    </blockquote>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="card-action"
+              >
+                <a
+                  href="https://www.lynda.com/React-js-tutorials/Learning-Redux/540345-2.html?srchtrk=index%3a9%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  Link to course
+                </a>
+              </div>
+            </div>
+            <br />
+          </li>
+          <li
+            className="col l6 s12"
+          >
+            <div
+              className="card"
+            >
+              <div
+                className="card-image"
+              >
+                <img
+                  alt="Building a Web Interface with React.js"
+                  src="https://cdn.lynda.com/course/495271/495271-636051283523699944-16x9.jpg"
+                />
+              </div>
+              <div
+                className="card-content"
+              >
+                <span
+                  className="card-title"
+                >
+                  Building a Web Interface with React.js
+                </span>
+                <p>
+                  React is a JavaScript library for creating user interfaces that display dynamic data. Because of its reusable components and unique data rendering approach, the web interfaces you create with React are flexible, fast, and lightweight.
+                </p>
+                <div
+                  className="row"
+                >
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Released:
+                        07/26/2016
+                      </h5>
+                    </blockquote>
+                  </div>
+                  <div
+                    className="col l6 center"
+                  >
+                    <blockquote>
+                      <h5>
+                        Views:
+                        62,462
+                      </h5>
+                    </blockquote>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="card-action"
+              >
+                <a
+                  href="https://www.lynda.com/React-js-tutorials/Building-Web-Interface-React-js/495271-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aReact%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  Link to course
+                </a>
+              </div>
+            </div>
+            <br />
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+`;
